@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+
+# Secrets — NEVER commit these
+.env
+.env.*
+!.env.example
+
+*.local
+.DS_Store

@@ -1,0 +1,15 @@
+# Disha
+
+> Context-aware legal document navigator. Upload a legal PDF, declare your role
+> and concern, and get findings that matter to you — each grounded in the
+> document text or honestly marked unverified. Informational only, not legal advice.
+
+## What it does
+- Role- and concern-aware analysis of legal PDFs (India-first jurisdiction lens)
+- Deterministic evidence grounding: every quoted finding is verified against the
+  real document text; the model never certifies its own quotes
+- "Prepare for your lawyer" question packet
+
+## Notes
+- Disha provides information, not legal advice.
+- Documents are processed ephemerally and never stored.

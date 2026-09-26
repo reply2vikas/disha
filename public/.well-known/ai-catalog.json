@@ -1,0 +1,16 @@
+{
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "identifier": "urn:disha:navigator:legal-document-intelligence",
+      "displayName": "Disha Legal Document Navigator",
+      "summary": "Context-aware, evidence-grounded legal document reading assistant. Informational only.",
+      "url": "/",
+      "representativeQueries": [
+        "explain this lease agreement for a tenant",
+        "what are my financial obligations in this contract",
+        "which clauses should I ask a lawyer about"
+      ]
+    }
+  ]
+}
